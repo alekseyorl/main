@@ -1,20 +1,26 @@
 <!--
-  GitHub profile README
-  Replace values written in UPPER_SNAKE_CASE, then remove anything you do not need.
+  GITHUB PROFILE README
+  Replace values written in UPPER_SNAKE_CASE.
+  Every icon below is intentionally on its own line:
+  delete, reorder or duplicate any line directly in the editor.
+
   Main placeholders:
   YOUR_NAME · YOUR_USERNAME · YOUR_AGE · YOUR_CITY · YOUR_ROLE
   YOUR_EMAIL · YOUR_TELEGRAM · YOUR_LINKEDIN · YOUR_HH_URL
   PROJECT_* · YOUR_UNIVERSITY · YOUR_CERTIFICATE
--->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=170&section=header&text=Hello%20World&fontSize=54&fontColor=FFFFFF&fontAlignY=46&animation=fadeIn" alt="Hello World banner" width="100%" />
-  <br />
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+TypeScript+Enthusiast;Turning+ideas+into+clean+interfaces;Open+to+interesting+collaborations" alt="Typing introduction" />
-  </a>
+  <!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:1D4ED8,100:7C3AED&height=185&section=header&text=Hello%20World&fontSize=54&fontColor=FFFFFF&fontAlignY=46&animation=fadeIn" alt="Hello World banner" width="100%" />
+<br />
+  <!-- Keep, edit or remove any typing line in the URL above -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Frontend+Developer;React+%26+TypeScript+Enthusiast;Turning+ideas+into+clean+interfaces;Open+to+interesting+collaborations" alt="Typing introduction" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:60A5FA,100:7C3AED&height=5&section=header" alt="" width="78%" />
 </div>
 <br />
-## 👋 About me · О себе
+👋 About me · О себе
 <table>
   <tr>
     <td width="66%" valign="top">
@@ -37,9 +43,9 @@
     </td>
     <td width="34%" valign="top">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=78&section=header&text=PROFILE&fontSize=24&fontColor=FFFFFF&fontAlignY=52" alt="Profile card header" width="100%" />
-        <br />
-        <br />
+        <!-- PERSONAL CARD HEADER -->
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=82&section=header&text=PROFILE&fontSize=24&fontColor=FFFFFF&fontAlignY=52" alt="Profile card header" width="100%" />
+        <br /><br />
         <strong>YOUR_NAME</strong><br />
         <sub>YOUR_ROLE</sub>
         <br /><br />
@@ -47,6 +53,7 @@
         🎂 YOUR_AGE years old<br />
         💼 YOUR_PROFESSION
         <br /><br />
+        <!-- CONTACT BADGES — remove any line you do not need -->
         <a href="mailto:YOUR_EMAIL">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
         </a><br />
@@ -61,32 +68,135 @@
         </a>
       </div>
     </td>
-  </tr>
+</tr>
 </table>
 <br />
-## 🧰 Tech stack · Технологии
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:60A5FA,100:2563EB&height=5&section=header" alt="" width="78%" />
+</div>
+<br />
+🧰 Tech stack · Технологии
+<!--
+  ICON EDITING:
+  Each image is a separate line on purpose.
+  Delete one line to remove a skill.
+  Copy one line to add another skill.
+  Keep the same height for a clean visual rhythm.
+◈ Languages · Языки
 <p align="center">
-  <strong>Languages · Языки</strong><br />
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,go,rust,php,c,cpp,cs,ruby,swift,dart,bash,lua,r,solidity,graphql,html,css&perline=11&theme=dark" alt="Programming languages" />
-</p>
-<p align="center">
-  <strong>Frontend · Фронтенд</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,solidjs,vite,redux,tailwind,bootstrap,materialui,threejs,webpack,jquery,sass,styledcomponents&perline=9&theme=dark" alt="Frontend technologies" />
-</p>
-<p align="center">
-  <strong>Backend · Бэкенд</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring,laravel,rails,dotnet,graphql,prisma,sequelize,socketio,rabbitmq,kafka&perline=8&theme=dark" alt="Backend technologies" />
-</p>
-<p align="center">
-  <strong>Data · Данные и базы</strong><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,cassandra,elasticsearch,firebase,supabase&perline=9&theme=dark" alt="Databases and data technologies" />
-</p>
-<p align="center">
-  <strong>Tools & DevOps · Инструменты и DevOps</strong><br />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,terraform,aws,gcp,azure,linux,ubuntu,nginx,vercel,postman,jest,vitest,cypress,playwright,eslint,prettier,vscode,webstorm,figma,jira,notion&perline=9&theme=dark" alt="Tools and DevOps technologies" />
+  <!-- remove or keep each icon independently -->
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="44" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="44" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="44" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="44" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="44" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="44" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="44" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" height="44" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="44" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="44" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="44" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=ruby&theme=dark" height="44" alt="Ruby" />
+  <img src="https://skillicons.dev/icons?i=swift&theme=dark" height="44" alt="Swift" />
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="44" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="44" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=lua&theme=dark" height="44" alt="Lua" />
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" height="44" alt="R" />
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="44" alt="Solidity" />
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="44" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="44" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="44" alt="CSS" />
 </p>
 <br />
-## ⭐ Selected projects · Избранные проекты
+◈ Frontend · Фронтенд
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="44" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="44" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" height="44" alt="Vue" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" height="44" alt="Nuxt" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" height="44" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" height="44" alt="Svelte" />
+  <img src="https://skillicons.dev/icons?i=astro&theme=dark" height="44" alt="Astro" />
+  <img src="https://skillicons.dev/icons?i=solidjs&theme=dark" height="44" alt="SolidJS" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" height="44" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="44" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="44" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="44" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=materialui&theme=dark" height="44" alt="Material UI" />
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="44" alt="Three.js" />
+  <img src="https://skillicons.dev/icons?i=webpack&theme=dark" height="44" alt="Webpack" />
+  <img src="https://skillicons.dev/icons?i=jquery&theme=dark" height="44" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="44" alt="Sass" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="44" alt="Styled Components" />
+</p>
+<br />
+◈ Backend · Бэкенд
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="44" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="44" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="44" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="44" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" height="44" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="44" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="44" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="44" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=rails&theme=dark" height="44" alt="Ruby on Rails" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" height="44" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="44" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="44" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" height="44" alt="Sequelize" />
+  <img src="https://skillicons.dev/icons?i=socketio&theme=dark" height="44" alt="Socket.IO" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="44" alt="RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="44" alt="Apache Kafka" />
+</p>
+<br />
+◈ Data · Данные и базы
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="44" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="44" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="44" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="44" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="44" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" height="44" alt="Cassandra" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" height="44" alt="Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="44" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="44" alt="Supabase" />
+</p>
+<br />
+◈ Tools & DevOps · Инструменты и DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="44" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="44" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="44" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="44" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="44" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="44" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="44" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="44" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="44" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="44" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="44" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="44" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="44" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="44" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=jest&theme=dark" height="44" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=vitest&theme=dark" height="44" alt="Vitest" />
+  <img src="https://skillicons.dev/icons?i=cypress&theme=dark" height="44" alt="Cypress" />
+  <img src="https://skillicons.dev/icons?i=playwright&theme=dark" height="44" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=eslint&theme=dark" height="44" alt="ESLint" />
+  <img src="https://skillicons.dev/icons?i=prettier&theme=dark" height="44" alt="Prettier" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="44" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=webstorm&theme=dark" height="44" alt="WebStorm" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="44" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=jira&theme=dark" height="44" alt="Jira" />
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="44" alt="Notion" />
+</p>
+<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:60A5FA,100:7C3AED&height=5&section=header" alt="" width="78%" />
+</div>
+<br />
+⭐ Selected projects · Избранные проекты
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -126,58 +236,39 @@
   </tr>
 </table>
 <br />
-## 🏆 Awards & education · Награды и образование
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:60A5FA,100:2563EB&height=5&section=header" alt="" width="78%" />
+</div>
+<br />
+🏆 Awards & education · Награды и образование
 <table>
   <tr>
-    <td width="30%" valign="top">
+    <td width="33%" valign="top">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=110&section=header&text=ACHIEVEMENTS&fontSize=18&fontColor=FFFFFF&fontAlignY=52" alt="Achievements card header" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=92&section=header&text=AWARD&fontSize=22&fontColor=FFFFFF&fontAlignY=52" alt="Award card" width="100%" />
         <br /><br />
+        🏆<br />
         <strong>YOUR_BEST_RESULT</strong><br />
         <sub>YOUR_SHORT_ACHIEVEMENT</sub>
       </div>
     </td>
-    <td width="70%" valign="top">
-      <p>🏆 <strong>YOUR_CERTIFICATE</strong> — YOUR_PLATFORM, YEAR</p>
-      <p>🎓 <strong>YOUR_UNIVERSITY</strong> — YOUR_SPECIALTY, YOUR_YEARS</p>
-      <p>🚀 <strong>YOUR_HACKATHON_OR_ACHIEVEMENT</strong> — YOUR_RESULT</p>
-      <p>📚 <strong>YOUR_COURSE</strong> — YOUR_PLATFORM, YEAR</p>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=92&section=header&text=EDUCATION&fontSize=18&fontColor=FFFFFF&fontAlignY=52" alt="Education card" width="100%" />
+        <br /><br />
+        🎓<br />
+        <strong>YOUR_UNIVERSITY</strong><br />
+        <sub>YOUR_SPECIALTY · YOUR_YEARS</sub>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=92&section=header&text=CERTIFICATE&fontSize=18&fontColor=FFFFFF&fontAlignY=52" alt="Certificate card" width="100%" />
+        <br /><br />
+        📚<br />
+        <strong>YOUR_CERTIFICATE</strong><br />
+        <sub>YOUR_PLATFORM · YEAR</sub>
+      </div>
     </td>
   </tr>
 </table>
-<br />
-## 📈 GitHub activity · Активность
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&bg_color=0F172A" alt="GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0F172A&ring=60A5FA&fire=7C3AED&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&title_color=60A5FA&text_color=CBD5E1&bg_color=0F172A" alt="Top programming languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
-<br />
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="YOUR_HH_URL">
-    <img src="https://img.shields.io/badge/HH.ru-0F172A?style=for-the-badge&logo=hh.ru&logoColor=D6001C" alt="HH.ru" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Open_to_work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&label=Followers&color=2563EB&logo=github" alt="GitHub followers" />
-  </a>
-  <br /><br />
-  <sub>Made with focus, curiosity and a little bit of ☕ · Сделано с фокусом, любопытством и чашкой кофе</sub>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=100&section=footer" alt="Footer banner" width="100%" />
-</div>
