@@ -29,17 +29,9 @@
 
 <table>
   <tr>
-    <td width="66%" valign="top">
-      <h3>Building useful things with code</h3>
-      <p><strong>EN</strong> — I’m <strong>[Your name]</strong>, a <strong>[Your role]</strong> from <strong>[Your city / country]</strong>. I build clear, fast and maintainable digital products, with a special focus on <strong>[your focus]</strong>.</p>
-      <p>Right now I’m working on <strong>[your current project]</strong> and deepening my skills in <strong>[your current learning]</strong>. I care about thoughtful interfaces, clean architecture and products that make complicated things feel simple.</p>
-      <p><strong>RU</strong> — Я <strong>[Ваше имя]</strong>, <strong>[ваша профессия]</strong> из <strong>[город / страна]</strong>. Создаю понятные, быстрые и поддерживаемые цифровые продукты, особенно интересуюсь <strong>[ваше направление]</strong>.</p>
-      <p>Сейчас работаю над <strong>[текущий проект]</strong> и развиваюсь в направлении <strong>[что изучаете]</strong>. Люблю продуманные интерфейсы, чистую архитектуру и продукты, которые делают сложные вещи простыми.</p>
-      <p>⚡ Вне кода: <strong>[хобби или личная деталь]</strong></p>
-    </td>
     <td width="34%" valign="top">
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:312E81&height=82&section=header&text=PROFILE&fontSize=24&fontColor=FFFFFF&fontAlignY=52" alt="Profile" width="100%" />
+        <img src="https://img.shields.io/badge/PROFILE-312E81?style=for-the-badge&labelColor=1E293B&color=312E81" alt="Profile" height="28" />
         <br /><br />
         <strong>[Your name]</strong><br />
         [Your role]
@@ -49,20 +41,28 @@
         💼 [Your profession]
         <br /><br />
 
-        <!-- Delete any contact line you do not need -->
+        <!-- Square contact icons — delete any line you do not need -->
         <a href="mailto:YOUR_EMAIL">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
-        </a><br />
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="32" height="32" />
+        </a>
         <a href="https://t.me/YOUR_TELEGRAM">
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="28" />
-        </a><br />
+          <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="32" height="32" />
+        </a>
         <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-        </a><br />
+          <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="LinkedIn" width="32" height="32" />
+        </a>
         <a href="YOUR_HH_URL">
-          <img src="https://img.shields.io/badge/HH.ru-D6001C?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HH.ru" height="28" />
+          <img src="https://img.shields.io/badge/HH-D6001C?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HH.ru" height="32" />
         </a>
       </div>
+    </td>
+    <td width="66%" valign="top">
+      <h3>Building useful things with code</h3>
+      <p><strong>EN</strong> — I’m <strong>[Your name]</strong>, a <strong>[Your role]</strong> from <strong>[Your city / country]</strong>. I build clear, fast and maintainable digital products, with a special focus on <strong>[your focus]</strong>.</p>
+      <p>Right now I’m working on <strong>[your current project]</strong> and deepening my skills in <strong>[your current learning]</strong>. I care about thoughtful interfaces, clean architecture and products that make complicated things feel simple.</p>
+      <p><strong>RU</strong> — Я <strong>[Ваше имя]</strong>, <strong>[ваша профессия]</strong> из <strong>[город / страна]</strong>. Создаю понятные, быстрые и поддерживаемые цифровые продукты, особенно интересуюсь <strong>[ваше направление]</strong>.</p>
+      <p>Сейчас работаю над <strong>[текущий проект]</strong> и развиваюсь в направлении <strong>[что изучаете]</strong>. Люблю продуманные интерфейсы, чистую архитектуру и продукты, которые делают сложные вещи простыми.</p>
+      <p>⚡ Вне кода: <strong>[хобби или личная деталь]</strong></p>
     </td>
   </tr>
 </table>
@@ -261,7 +261,7 @@
 <table>
   <tr>
     <td width="20%" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,45:312E81,100:4C1D95&height=92&section=header&text=AWARD&fontSize=22&fontColor=FFFFFF&fontAlignY=52" alt="Award" width="100%" />
+      <img src="https://img.shields.io/badge/AWARD-4C1D95?style=flat-square&labelColor=1E293B&color=4C1D95" alt="Award" height="26" />
     </td>
     <td width="80%" valign="middle">
       🏆 <strong>[Your best result]</strong><br />
@@ -270,7 +270,7 @@
   </tr>
   <tr>
     <td width="20%" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,45:1D4ED8,100:0369A1&height=92&section=header&text=EDUCATION&fontSize=18&fontColor=FFFFFF&fontAlignY=52" alt="Education" width="100%" />
+      <img src="https://img.shields.io/badge/EDUCATION-0369A1?style=flat-square&labelColor=1E293B&color=0369A1" alt="Education" height="26" />
     </td>
     <td width="80%" valign="middle">
       🎓 <strong>[Your university or school]</strong><br />
@@ -279,7 +279,7 @@
   </tr>
   <tr>
     <td width="20%" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,45:0F766E,100:0E7490&height=92&section=header&text=CERTIFICATE&fontSize=18&fontColor=FFFFFF&fontAlignY=52" alt="Certificate" width="100%" />
+      <img src="https://img.shields.io/badge/CERTIFICATE-0E7490?style=flat-square&labelColor=1E293B&color=0E7490" alt="Certificate" height="26" />
     </td>
     <td width="80%" valign="middle">
       📚 <strong>[Your certificate]</strong><br />
