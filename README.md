@@ -40,7 +40,6 @@
         🎂 [Your age] years old<br />
         💼 [Your profession]
         <br /><br />
-
         <!-- Square contact icons — delete any line you do not need -->
         <a href="mailto:YOUR_EMAIL">
           <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="32" height="32" />
